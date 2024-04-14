@@ -12,9 +12,7 @@ int main() {
     cout << "The last vowel is: " << vowels[4] << endl;
     
 //    cin >> vowels[5]; // out of bounds - don't do this!!
-    // change made here
-    // more change
-    // next change
+
     double hi_temps []  { 90.1, 89.8, 77.5, 81.6};
     cout << "\nThe first high temperature is: " << hi_temps[0] << endl;
     
