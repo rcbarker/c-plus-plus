@@ -1,0 +1,7 @@
+C:\Users\Ryan\Workspaces\Section6\ChallengeSolution\main.cpp
+C:\Users\Ryan\Workspaces\Section6\Challenge\main.cpp
+C:\Users\Ryan\Workspaces\Section6\SizeofOperator\main.cpp
+C:\Users\Ryan\Workspaces\Section6\PrimitiveTypes\main.cpp
+C:\Users\Ryan\Workspaces\Section6\Constants\main.cpp
+C:\Users\Ryan\Workspaces\Section6\GlobalVariables\main.cpp
+C:\Users\Ryan\Workspaces\Section6\InitializingVariables\main.cpp

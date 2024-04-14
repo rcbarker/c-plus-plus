@@ -1,0 +1,4 @@
+C:\Users\Ryan\Workspaces\Section7\Vectors\main.cpp
+C:\Users\Ryan\Workspaces\Section7\ChallengeSolution\main.cpp
+C:\Users\Ryan\Workspaces\Section7\Challenge\main.cpp
+C:\Users\Ryan\Workspaces\Section7\Arrays\main.cpp
