@@ -4,13 +4,13 @@
   <Project Name="ArithmeticOperators" Path="ArithmeticOperators/ArithmeticOperators.project" Active="No"/>
   <Project Name="Euros" Path="Euros/Euros.project" Active="No"/>
   <Project Name="IncrementDecrementOperators" Path="IncrementDecrementOperators/IncrementDecrementOperators.project" Active="No"/>
-  <Project Name="MixedExpressions" Path="MixedExpressions/MixedExpressions.project" Active="No"/>
+  <Project Name="MixedExpressions" Path="MixedExpressions/MixedExpressions.project" Active="Yes"/>
   <Project Name="EqualityOperators" Path="EqualityOperators/EqualityOperators.project" Active="No"/>
   <Project Name="RelationalOperators" Path="RelationalOperators/RelationalOperators.project" Active="No"/>
   <Project Name="LogicalOperators" Path="LogicalOperators/LogicalOperators.project" Active="No"/>
   <Project Name="Challenge" Path="Challenge/Challenge.project" Active="No"/>
   <Project Name="ChallengeSolution" Path="ChallengeSolution/ChallengeSolution.project" Active="No"/>
-  <Project Name="TemperatureConverter" Path="TemperatureConverter/TemperatureConverter.project" Active="Yes"/>
+  <Project Name="TemperatureConverter" Path="TemperatureConverter/TemperatureConverter.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
